@@ -25,3 +25,7 @@ Laboratorium berperan penting dalam mendukung kegiatan penelitian dan penyelesai
 <p align="left">
   <strong>1. Pemilihan Mode</strong>
 </p>
+
+<p align="center">
+  <img src="https://github.com/muhammadarridlo/Smart-Inventory-Cabinet/blob/main/Dokumentasi/Flowchart/Flowchart_Pemilihan_Mode_2.png" width="950" title="Pemilihan Mode">
+</p>
