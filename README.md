@@ -43,13 +43,8 @@ selesai mengeksekusikan prosedur masing-masing alat yang telah ditetapkan.
 
 <h2 align="left"><strong>A. Peminjaman</strong></h2>
 
-<h3 align="left"><strong>A1. Pengisian Data dan Pembukaan/Penutupan Loket</strong></h3>
 <p align="center">
-  <img src="https://github.com/muhammadarridlo/Smart-Inventory-Cabinet/blob/main/Dokumentasi/Flowchart/Peminjaman_A1.png" width="250" title="Pemilihan Mode">
-  <img src="https://github.com/muhammadarridlo/Smart-Inventory-Cabinet/blob/main/Dokumentasi/Flowchart/Peminjaman_A2.png" width="250" title="Pemilihan Mode">
-</p>
-
-<h3 align="left"><strong>A2. Pemindaian QR Code pada Alat Laboratorium</strong></h3>
-<p align="center">
+  <img src="https://github.com/muhammadarridlo/Smart-Inventory-Cabinet/blob/main/Dokumentasi/Flowchart/Peminjaman_A1.png" width="950" title="Pemilihan Mode">
+  <img src="https://github.com/muhammadarridlo/Smart-Inventory-Cabinet/blob/main/Dokumentasi/Flowchart/Peminjaman_A2.png" width="950" title="Pemilihan Mode">
   <img src="https://github.com/muhammadarridlo/Smart-Inventory-Cabinet/blob/main/Dokumentasi/Flowchart/Peminjaman_A3.png" width="950" title="Pemilihan Mode">
 </p>
