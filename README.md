@@ -48,3 +48,5 @@ selesai mengeksekusikan prosedur masing-masing alat yang telah ditetapkan.
   <img src="https://github.com/muhammadarridlo/Smart-Inventory-Cabinet/blob/main/Dokumentasi/Flowchart/Peminjaman_A2.png" width="950" title="Pemilihan Mode">
   <img src="https://github.com/muhammadarridlo/Smart-Inventory-Cabinet/blob/main/Dokumentasi/Flowchart/Peminjaman_A3.png" width="950" title="Pemilihan Mode">
 </p>
+
+<h2 align="left"><strong>B. Pengembalian</strong></h2>
