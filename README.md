@@ -1,5 +1,7 @@
 <h1 align="center">Lemari Inventaris Cerdas Berbasis IoT</h1>
 
+<br>
+
 <p align="center">
   Dirancang dan Dirakit oleh<br>
   Kelompok <strong>LEARN 01</strong>
