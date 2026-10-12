@@ -24,6 +24,7 @@ untuk ada.
 dirancang sebagai solusi yang memenuhi keperluannya suatu laboratorium memiliki metode 
 pengelolaan peralatan yang terorganisasi dan andal.
 
+<br>
 
 <h1 align="left">Cara Kerja Alat</h1>
 Cara kerja alat <strong>Lemari Inventaris Cerdas</strong> diawali dengan pemilihan mode 
